@@ -73,5 +73,5 @@ A 5-stage RISC-V core complete with forwarding, hazard detection, and branch pre
 
 **Hardware:** SystemVerilog, Verilog
 
-**Tools:** Xilinx Viado, Linux, Git, Pynq
+**Tools:** Xilinx Vivado, Linux, Git, Pynq
 
