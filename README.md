@@ -65,13 +65,13 @@ A 5-stage RISC-V core complete with forwarding, hazard detection, and branch pre
 - Implemented a 2-way set associaive cache block with a LRU replacement policy
 - Designed a 2-bit branch predictor, improving IPC by ~10%
 
-  ---
+---
 
-  ## Skills
+## Skills
 
-  **Software:** C++, C, Python, RISC-V Assembly
-  
-  **Hardware:** SystemVerilog, Verilog
-  
-  **Tools:** Xilinx Viado, Linux, Git, Pynq
+**Software:** C++, C, Python, RISC-V Assembly
+
+**Hardware:** SystemVerilog, Verilog
+
+**Tools:** Xilinx Viado, Linux, Git, Pynq
 
