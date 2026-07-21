@@ -46,7 +46,7 @@ An interactive HDMI display of fractal sets, with educational displays exlpainin
 
 An FPGA-Accelerated system tracking Crypto markets, accelerated and controlled through a linear regression model updated on the FPGA.
 
-- Computed matrix multiplication for the linear regression model through outer-product accumulation in a 1-cycle pipeline
+- Computed matrix multiplication for the linear regression model through outer-product accumulation in a 1-cycle pipeline whilst maintaining a $F_{max}$ value of 100 MHz
 - Converted IEEE-754 floating-point data into fixed-point data (avoidig congestion) with a negligible, mean 0.5% quantization error
 - Maintained an average speedup of ~18x, with a peak speedup of ~68x
 - Implemented voice interaction of system, allowing for switching of market and leverage
