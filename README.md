@@ -63,7 +63,6 @@ A Compiler (made with mostly C++) which converts to RISC-V assembly.
 A 5-stage RISC-V core complete with forwarding, hazard detection, and branch prediction.
 
 - Implemented a 2-way set associaive cache block with a LRU replacement policy
-- Designed a 2-bit branch predictor, improving IPC by ~10%
 
 ---
 
