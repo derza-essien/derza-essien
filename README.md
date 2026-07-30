@@ -29,7 +29,7 @@ The list below explains what some of the prior mentioned projects consist of, as
 
 A low-latency feed handler, implemented via the Nasdaq TotalView-ITCH 5.0 specification. Also includes an Order & Price book tracking bid & ask prices.
 
-- Designed data handler & order book logic, produced a worst case order book latency of 15 clock cycles, maintaining an $F_{max}$ of 106.6MHz
+- Designed data handler & order book logic, produced a worst case order book latency of 14 clock cycles, maintaining an $F_{max}$ of 106.6MHz
 - Tested with historical Nasdaq-ITCH data using the 5.0 specification
 - Verification through SystemVerilog, and Verilator (via cocotb) testbenches, with comparison to a golden model
 
