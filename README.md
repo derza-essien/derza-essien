@@ -47,7 +47,7 @@ An FPGA-Accelerated system tracking Crypto markets, accelerated and controlled t
 
 - Computed matrix multiplication for the linear regression model through outer-product accumulation in a 1-cycle pipeline whilst maintaining a $F_{max}$ value of 100 MHz
 - Converted IEEE-754 floating-point data into fixed-point data (avoiding congestion) with a negligible, mean 1.25% quantization error
-- Maintained an average speedup of ~18x, with a peak speedup of ~68x
+- Maintained an average speedup of ~18x, with a peak speedup of ~68x, inclusive of host-to-FPGA DMA transfers
 - Implemented voice interaction of system, allowing for switching of market and leverage
 
 ### C90 Compiler
