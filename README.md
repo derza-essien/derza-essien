@@ -16,8 +16,8 @@ The following table details the projects I have contributed to. Unfortunately, s
 | [NASDAQ-ITCH Feed Handler](https://github.com/an-thony350/ITCH-Feed-Handler-and-Order-Book) | Contributor to Hardware & Software design & Verification | SystemVerilog, PYNQZ1, Xilinx Vivado, Python | Contributed to the overall hardware design, verifying RTL I designed as well as contributing to the python scripts simulating order-book data |
 | [Fractal Viewer & Mathematical Accelerator](https://github.com/an-thony350/FractalScope) | Hardware Design Lead & Low-latency Software Lead | SystemVerilog, Verilog, PYNQZ1, Xilinx Vivado, C++, Python | Co-designed the RTL for all releases of the fractal set viewer & designed the CPU baseline to compare throughput multiples between software & hardware |
 | [FPGA-Accelerated HFT System](https://github.com/derza-essien/Accelerated-HFT-System) | Hardware Design Lead | SystemVerilog, PYNQZ1, Xilinx Vivado | Designed the RTL for the fixed-point matrix multiplier for a linear regression model |
-| [C90 Compiler](https://github.com/derza-essien/C90-Compiler) | Contributer | C++, RISC-V Assembly, Yacc | Designed the parser forming the AST tree and co-designed the code generation sections which call functions relative to tree position |
-| [RISC-V Processor](https://github.com/aa4923/RISC-V22) | Team Lead | SystemVerilog, C++, Verilator, RISC-V Assembly | Lead the design & verification of a 5-stage pipelined RV32I RISC-V processor |
+| [C90 Compiler](https://github.com/derza-essien/C90-Compiler) | Contributor | C++, RISC-V Assembly, Yacc | Designed the parser forming the AST tree and co-designed the code generation sections which call functions relative to tree position |
+| [RISC-V Processor](https://github.com/aa4923/RISC-V22) | Team Lead | SystemVerilog, C++, Verilator, RISC-V Assembly | Led the design & verification of a 5-stage pipelined RV32I RISC-V processor |
 
 ---
 
